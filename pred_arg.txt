@@ -1,0 +1,9 @@
+went ARG4-to the_market
+went ARGM-TMP Today
+went ARG0 I
+bought ARG1 some_fruits_and_fresh_vegetables
+bought ARGM-TMP Today
+bought ARG0 I
+came ARGM-DIR back
+came ARGM-TMP Today
+came ARG1 I

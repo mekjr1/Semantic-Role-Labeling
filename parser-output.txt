@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN Today)) (NP (PRP I)) (VP (VP (VBD went) (PP (TO to) (NP (DT the) (NN market)))) (, ,) (VP (VBD bought) (NP (NP (DT some) (NNS fruits)) (CC and) (NP (JJ fresh) (NNS vegetables)))) (, ,) (CC and) (VP (VBD came) (ADVP (RB back)))) (. .)))
